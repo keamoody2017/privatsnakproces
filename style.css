@@ -1,0 +1,249 @@
+* {}
+
+
+
+body {
+    background-color: #75C1DC;
+}
+
+header {
+    position: fixed;
+    padding: 10px;
+}
+
+header nav {
+    font-family: 'Futura', sans-serif;
+    font-size: 1em;
+}
+
+h1 {
+    font-family: 'Futura', sans-serif;
+    font-size: 2.5em;
+    text-align: center;
+    color: #1B1F27;
+}
+
+h2 {
+    font-family: 'Futura', sans-serif;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Futura', sans-serif;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+p {
+    font-family: 'Futura';
+    font-size: 1em;
+}
+
+ul {
+    font-family: 'Futura';
+    font-size: 1em;
+}
+
+
+.moodboard img {
+    display: block;
+    margin: auto;
+    width: 40vw;
+}
+
+#fernisering img {
+    display: block;
+    margin: auto;
+    width: 60vw;
+}
+
+.column1 {
+    margin: 3px;
+    padding: 3px;
+    background-color: #75C1DC;
+}
+
+
+.sekvens {
+    margin: 3px;
+    padding: 3px;
+    background-color: #75C1DC;
+
+}
+
+.karakter {
+    background-color: #75C1DC;
+    margin: 3px;
+    padding: 3px;
+}
+
+.karakter img {
+    display: block;
+    margin: auto;
+    width: 40vw;
+}
+
+.some {
+    background-color: #75C1DC;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-basis: 400px;
+    flex-grow: 1;
+    align-self: auto;
+}
+
+
+.column2 {
+    margin: 3px;
+    padding: 3px;
+    background-color: #F08C3B;
+}
+
+.sekvens {
+    margin: 3px;
+    padding: 3px;
+    background-color: #F08C3B;
+}
+
+.sekvens img {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+
+.trello {
+    margin: 3px;
+    padding: 3px;
+    background-color: #F08C3B;
+}
+
+.column3 {
+    background-color: #1B1F27;
+    object-position: center;
+    align-content: center;
+    display: flex;
+    flex-wrap: wrap flex-basis: 400px;
+    flex-grow: 1;
+    align-self: baseline;
+}
+
+#medlemmer {
+    background-color: #1B1F27;
+}
+
+#medlemmer h2 {
+    font: 'Futura';
+    font-size: 0.5;
+    color: aliceblue;
+}
+
+#medlemmer p {
+    margin: 10px;
+    padding: 10px;
+    color: aliceblue;
+    right: 100px;
+
+}
+
+
+.sectionwrapper {
+    /*parent*/
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.sectionwrapper1 {
+    /*parent*/
+    display: flex;
+    flex-wrap: wrap;
+    align-self: baseline;
+    padding: 20px;
+    margin: 20px;
+    border: 20px;
+
+}
+
+#audience {
+    margin: 10px;
+    padding: 10px;
+}
+
+#audience .column4 {
+    margin-left: 1cm;
+}
+
+#persona {
+    margin: 20px;
+    padding: 20px;
+}
+
+#test .column4 {
+    margin-left: 10px;
+}
+
+
+.some {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+.column4 {
+    /*child*/
+    flex-basis: 400px;
+    flex-grow: 1;
+    align-self: auto;
+}
+
+.persona1 {
+    /*child*/
+    flex-basis: 400px;
+    flex-grow: 1;
+    align-self: auto;
+}
+
+.portrait1 {
+    /*child*/
+    flex-basis: 400px;
+    flex-grow: 1;
+    align-self: flex-end;
+}
+
+.portrait1 img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+.portrait2 {
+    /*child*/
+    flex-basis: 400px;
+    flex-grow: 1;
+    align-self: flex-end;
+}
+
+.portrait2 img {
+    display: block;
+    margin: auto;
+    width: 60%;
+}
+
+#Asset-liste {
+    padding: 10px;
+    margin: 10px;
+}
+
+#Asset-liste h3 {
+    font-family: 'Futura', sans-serif;
+    font-size: 1em;
+    text-align: left;
+}
+
+
+#burn img {
+    width: 100%;
+}
