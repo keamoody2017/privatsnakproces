@@ -1,0 +1,317 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 320">
+  <defs>
+    <style>
+      .cls-1, .cls-14, .cls-6 {
+        fill: none;
+      }
+
+      .cls-15, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke: #000;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-2, .cls-3, .cls-4, .cls-40, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 0.25px;
+      }
+
+      .cls-10, .cls-13, .cls-14, .cls-3, .cls-40, .cls-7 {
+        stroke-width: 2px;
+      }
+
+      .cls-31, .cls-4 {
+        fill: #16456a;
+      }
+
+      .cls-11, .cls-12, .cls-4, .cls-5, .cls-6, .cls-8, .cls-9 {
+        stroke-width: 3px;
+      }
+
+      .cls-30, .cls-5 {
+        fill: #7f7f7f;
+      }
+
+      .cls-8 {
+        fill: #686868;
+      }
+
+      .cls-32, .cls-9 {
+        fill: #99b88e;
+      }
+
+      .cls-10, .cls-11 {
+        fill: #795d47;
+      }
+
+      .cls-12, .cls-13 {
+        fill: #f4e8cd;
+      }
+
+      .cls-16 {
+        fill: #333;
+      }
+
+      .cls-17 {
+        fill: #1a1a1a;
+      }
+
+      .cls-18 {
+        fill: #74c0db;
+      }
+
+      .cls-19 {
+        font-size: 25px;
+      }
+
+      .cls-19, .cls-34, .cls-35, .cls-36, .cls-37 {
+        font-family: Futura-Bold, Futura;
+        font-weight: 700;
+      }
+
+      .cls-20 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-21 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-22 {
+        font-size: 20px;
+      }
+
+      .cls-22, .cls-26, .cls-47, .cls-48 {
+        font-family: Futura-CondensedMedium, Futura;
+      }
+
+      .cls-23 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-24 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-25 {
+        letter-spacing: 0em;
+      }
+
+      .cls-26, .cls-47, .cls-48 {
+        font-size: 10px;
+      }
+
+      .cls-27 {
+        letter-spacing: -0.05em;
+      }
+
+      .cls-28 {
+        fill: #1f2532;
+      }
+
+      .cls-29 {
+        fill: #ff9207;
+      }
+
+      .cls-33, .cls-34, .cls-35, .cls-36, .cls-37 {
+        isolation: isolate;
+      }
+
+      .cls-34, .cls-35, .cls-36 {
+        font-size: 32.3px;
+      }
+
+      .cls-34, .cls-35, .cls-36, .cls-37 {
+        fill: #f9f9f9;
+      }
+
+      .cls-35 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-36 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-37 {
+        font-size: 27.66px;
+      }
+
+      .cls-38 {
+        letter-spacing: 0em;
+      }
+
+      .cls-39 {
+        letter-spacing: 0.02em;
+      }
+
+      .cls-40 {
+        fill: #f2f2f2;
+        stroke: #f2f2f2;
+      }
+
+      .cls-41 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-42 {
+        letter-spacing: 0.02em;
+      }
+
+      .cls-43 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-44 {
+        letter-spacing: 0em;
+      }
+
+      .cls-45 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-46 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-47 {
+        fill: #e6e6e6;
+      }
+
+      .cls-48 {
+        fill: #f4f4f4;
+      }
+
+      .cls-49 {
+        letter-spacing: 0em;
+      }
+    </style>
+    <symbol id="Tænker01" data-name="Tænker01" viewBox="0 0 300 500">
+      <rect class="cls-1" width="300" height="500"/>
+      <g id="sko_copy_7" data-name="sko copy 7">
+        <path d="M176.61,36.13h53.24A1.14,1.14,0,0,1,231,37.26s0,0,0,0V38a22.41,22.41,0,0,1-22.41,22.41h-32a1.15,1.15,0,0,1-1.14-1.15v-22a1.14,1.14,0,0,1,1.15-1.13Z"/>
+        <path d="M89.41,59.56h32a1.15,1.15,0,0,0,1.15-1.15v-22a1.15,1.15,0,0,0-1.15-1.15H68.15A1.15,1.15,0,0,0,67,36.41v.74A22.41,22.41,0,0,0,89.41,59.56Z"/>
+        <path class="cls-2" d="M90.79,44.5l-1-.17a1,1,0,0,0-1.15.82L87.07,54.3a1,1,0,0,0,.82,1.15l1,.17A1,1,0,0,0,90,54.81h0l1.56-9.15A1,1,0,0,0,90.79,44.5Z"/>
+        <path class="cls-2" d="M95.45,45.37l-1-.17A1,1,0,0,0,93.3,46l-1.56,9.15a1,1,0,0,0,.81,1.15l1,.17a1,1,0,0,0,1.15-.82l1.56-9.15A1,1,0,0,0,95.45,45.37Z"/>
+        <path class="cls-2" d="M100.1,46.24l-1-.17a1,1,0,0,0-1.16.81h0L96.4,56a1,1,0,0,0,.82,1.15l1,.17a1,1,0,0,0,1.15-.82l1.57-9.14A1,1,0,0,0,100.1,46.24Z"/>
+        <path class="cls-2" d="M209.15,44.5l1-.17a1,1,0,0,1,1.15.82l1.56,9.15a1,1,0,0,1-.81,1.15l-1,.17a1,1,0,0,1-1.16-.81h0l-1.56-9.15A1,1,0,0,1,209.15,44.5Z"/>
+        <path class="cls-2" d="M204.5,45.37l1-.17a1,1,0,0,1,1.16.81h0l1.56,9.15a1,1,0,0,1-.82,1.15l-1,.17a1,1,0,0,1-1.15-.82l-1.57-9.15A1,1,0,0,1,204.5,45.37Z"/>
+        <path class="cls-2" d="M199.85,46.24l1-.17a1,1,0,0,1,1.15.82L203.57,56a1,1,0,0,1-.82,1.15l-1,.17a1,1,0,0,1-1.16-.81h0L199,47.4a1,1,0,0,1,.82-1.15Z"/>
+        <rect class="cls-3" x="67" y="35.27" width="55.53" height="6.07"/>
+        <rect class="cls-3" x="175.47" y="36.13" width="55.53" height="6.07"/>
+      </g>
+      <g id="jeans_copy_7" data-name="jeans copy 7">
+        <path class="cls-4" d="M208.87,194.49v-131h-32.1v57.62A24.86,24.86,0,0,1,152,145.9h-6a24.86,24.86,0,0,1-24.79-24.79V63.46H90v131Z"/>
+      </g>
+      <g id="hoodie_copy_7" data-name="hoodie copy 7">
+        <path class="cls-5" d="M91.73,294.68s8.68,35.5,57.27,29.9c0,0,45.12,9.34,56.4-29.9l5.21-4.67V173.23H90L86.52,288.14Z"/>
+        <line class="cls-6" x1="89.56" y1="294.28" x2="117.76" y2="294.28"/>
+        <line class="cls-6" x1="208.44" y1="294.28" x2="179.8" y2="294.28"/>
+        <path class="cls-6" d="M116.46,299.92s5.21-29.5,33-27.77c0,0,30.37,1.74,32.11,26.9"/>
+        <path class="cls-6" d="M131.65,292.54"/>
+        <path class="cls-7" d="M132.08,292.54h0a1.3,1.3,0,0,0,1.3-1.3V253.92a1.3,1.3,0,0,0-1.3-1.3h0a1.3,1.3,0,0,0-1.3,1.3v37.32A1.3,1.3,0,0,0,132.08,292.54Z"/>
+        <path class="cls-7" d="M166.79,292.54h0a1.3,1.3,0,0,0,1.3-1.3V253.92a1.3,1.3,0,0,0-1.3-1.3h0a1.3,1.3,0,0,0-1.3,1.3v37.32A1.3,1.3,0,0,0,166.79,292.54Z"/>
+        <path class="cls-8" d="M168,219.57V220a4.81,4.81,0,0,1-4.8,4.82H135.59a4.81,4.81,0,0,1-4.81-4.81h0v-.47a4.82,4.82,0,0,0-4.82-4.82h-.78a4.81,4.81,0,0,1-4.81-4.81h0V188.42a4.81,4.81,0,0,1,4.8-4.82h47.65a4.81,4.81,0,0,1,4.81,4.81h0v21.51a4.81,4.81,0,0,1-4.8,4.82h0a4.82,4.82,0,0,0-4.82,4.82Z"/>
+        <path class="cls-5" d="M234.5,165.5"/>
+      </g>
+      <g id="kasket_copy_7" data-name="kasket copy 7">
+        <path class="cls-9" d="M92.16,416.19s13.89,37.32,59,33.84c0,0,42.52,3.48,56.4-31.23V387.56H92.16Z"/>
+        <path class="cls-10" d="M169.39,398.41c-1.34-2.2-7.56-2.22-20-2.17-11.28,0-17,.1-18.22,2.17-3.39,5.53,6,23.86,19.09,23.86S172.79,404,169.39,398.41Z"/>
+        <rect x="127.74" y="389.3" width="45.12" height="9.54" rx="4.77" ry="4.77"/>
+      </g>
+      <g id="hår_copy_7" data-name="hår copy 7">
+        <path class="cls-11" d="M203.23,386.69s9.55-1.73,10.42-11.28c0,0,12.14-9.54.86-23.43,0,0,1.74-8.68-8.67-11.28L93,341.57s-6.94-.87-8.68,9.54c0,0-12.14,10.42,0,22.56,0,0-2.6,10.42,7.81,12.15S203.23,386.69,203.23,386.69Z"/>
+      </g>
+      <g id="ansigt_copy_7" data-name="ansigt copy 7">
+        <ellipse class="cls-12" cx="149.43" cy="307.73" rx="14.32" ry="10.85"/>
+        <ellipse class="cls-13" cx="94.33" cy="365.43" rx="8.24" ry="9.11"/>
+        <ellipse class="cls-13" cx="205.4" cy="363.7" rx="8.24" ry="9.11"/>
+        <path class="cls-12" d="M94.33,386.26V342s0-11.28,9.55-15.62l20-14.75a19.22,19.22,0,0,1,11.28-3.47h32.1s8.68,0,13.89,6.94l19.95,16.49s5.21,1.74,4.34,15.62V388H94.33Z"/>
+        <circle cx="125.14" cy="364.13" r="5.21"/>
+        <circle cx="172.86" cy="364.13" r="5.21"/>
+        <path d="M165.06,383.22h16.48a5.21,5.21,0,0,0,5.21-5.21h0a5.21,5.21,0,0,0-5.21-5.21H165.06a5.21,5.21,0,0,0-5.21,5.21h0A5.21,5.21,0,0,0,165.06,383.22Z"/>
+        <path d="M117.33,383.22h17.35a5.21,5.21,0,0,0,5.21-5.21h0a5.21,5.21,0,0,0-5.21-5.21H117.33a5.21,5.21,0,0,0-5.21,5.21h0A5.21,5.21,0,0,0,117.33,383.22Z"/>
+        <path class="cls-6" d="M140.32,323.78s7.81-11.28,18.22,0"/>
+        <path class="cls-14" d="M149.87,363.26h0a9.11,9.11,0,0,0,9.11-9.11v-8.68a9.11,9.11,0,0,0-9.11-9.11h0a9.11,9.11,0,0,0-9.11,9.11v8.68A9.11,9.11,0,0,0,149.87,363.26Z"/>
+      </g>
+      <path class="cls-5" d="M203,207.47c12.63-8,33.07,7.71,38.11,11.58,19.16,14.72,33.74,39.22,27.88,46.34-.46.56-1.78,1.9-5.67,2.19-20.5,1.5-40.8-31.41-43.42-35.74l-4.17,54.58c-.13,3.93-5.5,7-11.94,6.77h0c-6.44-.21-11.6-3.59-11.48-7.52l1.9-59.51C194.61,221.49,196.07,211.88,203,207.47Z"/>
+      <ellipse class="cls-12" cx="263.63" cy="271.77" rx="9.11" ry="16.83" transform="translate(-25.09 26.82) rotate(-5.56)"/>
+      <g id="Iphone_copy_3" data-name="Iphone copy 3">
+        <rect class="cls-15" x="254.51" y="267.12" width="24.94" height="42.75" rx="4.72" ry="4.72"/>
+        <path d="M274.73,309.75a4.6,4.6,0,0,0,4.6-4.59V271.84a4.6,4.6,0,0,0-4.6-4.59h-15.5a4.6,4.6,0,0,0-4.59,4.59v33.32a4.6,4.6,0,0,0,4.59,4.59h15.5m0,.25h-15.5a4.84,4.84,0,0,1-4.84-4.84V271.84a4.84,4.84,0,0,1,4.84-4.84h15.5a4.85,4.85,0,0,1,4.85,4.84v33.32A4.85,4.85,0,0,1,274.73,310Z"/>
+        <rect class="cls-16" x="256.36" y="272.49" width="21.83" height="33.45"/>
+        <path class="cls-17" d="M278.06,305.82V272.61H256.49v33.21h21.57m.25.25H256.24V272.36h22.07Z"/>
+        <ellipse cx="262.9" cy="307.99" rx="0.44" ry="0.4"/>
+        <path d="M262.9,308.39a.4.4,0,1,1,.44-.4.42.42,0,0,1-.44.4Z"/>
+        <rect x="264.89" y="307.76" width="4.86" height="0.36" rx="0.11" ry="0.11"/>
+        <path d="M269.65,308.12H265a.11.11,0,0,1-.11-.1v-.15a.1.1,0,0,1,.1-.1h4.66a.1.1,0,0,1,.11.09h0V308a.11.11,0,0,1-.11.1Z"/>
+        <ellipse cx="267.28" cy="309.24" rx="0.24" ry="0.22"/>
+        <path d="M267.28,309.46a.22.22,0,1,1,.22-.22A.22.22,0,0,1,267.28,309.46Z"/>
+        <ellipse class="cls-15" cx="267.03" cy="269.95" rx="1.92" ry="1.75"/>
+        <path d="M267,271.58a1.64,1.64,0,1,0-1.79-1.63,1.72,1.72,0,0,0,1.79,1.63m0,.25a1.89,1.89,0,1,1,2-1.88A2,2,0,0,1,267,271.83Z"/>
+        <rect class="cls-15" x="279.48" y="297.48" width="0.52" height="3.22" rx="0.1" ry="0.1"/>
+        <path d="M279.9,300.7h-.32a.1.1,0,0,1-.1-.1h0v-3a.11.11,0,0,1,.1-.1h.32a.1.1,0,0,1,.1.1h0v3a.09.09,0,0,1-.08.1Z"/>
+        <rect class="cls-15" x="254" y="301.68" width="0.49" height="1.88" rx="0.09" ry="0.09"/>
+        <path d="M254.39,303.56h-.3a.09.09,0,0,1-.09-.09v-1.69a.09.09,0,0,1,.09-.09h.3a.1.1,0,0,1,.1.09v1.69A.1.1,0,0,1,254.39,303.56Z"/>
+        <rect class="cls-15" x="254" y="297.76" width="0.49" height="2.32" rx="0.09" ry="0.09"/>
+        <path d="M254.39,300.08h-.3A.09.09,0,0,1,254,300h0v-2.13a.09.09,0,0,1,.08-.1h.31a.1.1,0,0,1,.1.1h0V300a.1.1,0,0,1-.1.1h0Z"/>
+        <rect class="cls-15" x="254" y="294.54" width="0.49" height="2.41" rx="0.09" ry="0.09"/>
+        <path d="M254.39,296.95h-.3a.09.09,0,0,1-.09-.09h0v-2.22a.1.1,0,0,1,.09-.1h.3a.11.11,0,0,1,.1.1v2.22a.1.1,0,0,1-.1.1Z"/>
+      </g>
+      <ellipse class="cls-13" cx="254.37" cy="275.46" rx="3.25" ry="7.73" transform="translate(-25.49 25.94) rotate(-5.56)"/>
+      <ellipse class="cls-12" cx="115.21" cy="189.47" rx="15.82" ry="9" transform="translate(-89.77 104.87) rotate(-36.27)"/>
+      <ellipse class="cls-13" cx="123.45" cy="195.04" rx="7.27" ry="3.22" transform="translate(-92.49 113.49) rotate(-36.98)"/>
+      <path class="cls-5" d="M54,230.2a15.57,15.57,0,0,0-2.67,5.43c-2.07,8,2.94,15.78,5.61,19.34l36,43.4c2.37,2.86,8.08,1.65,12.69-2.69h0c4.61-4.34,6.43-10.24,4.06-13.11l-31.31-41.5,3.15-6.13c8.47-4.42,34.09-19.19,34-37.35,0-3.86-1.2-5.31-1.7-5.83-6.31-6.59-30.18,4.86-45.17,22Z"/>
+    </symbol>
+  </defs>
+  <title>styletile</title>
+  <rect class="cls-18" width="500" height="320"/>
+  <text class="cls-19" transform="translate(6.97 40.69)">h2/<tspan class="cls-20" x="47.6" y="0">F</tspan><tspan x="61.17" y="0">utu</tspan><tspan class="cls-21" x="103.95" y="0">r</tspan><tspan x="115.75" y="0">a, Bold, 25</tspan><tspan class="cls-21" x="261.22" y="0">p</tspan><tspan x="278.92" y="0">t </tspan></text>
+  <text class="cls-22" transform="translate(7.92 75.7)">h3/<tspan class="cls-23" x="25.39" y="0">F</tspan><tspan x="32.25" y="0">utu</tspan><tspan class="cls-24" x="52.94" y="0">r</tspan><tspan x="58.4" y="0">a, Condensed Medium, 20</tspan><tspan class="cls-25" x="222.47" y="0">p</tspan><tspan x="230.38" y="0">t</tspan></text>
+  <text class="cls-26" transform="translate(8.51 98.69)">p /<tspan class="cls-23" x="10.52" y="0">F</tspan><tspan x="13.95" y="0">utu</tspan><tspan class="cls-24" x="24.3" y="0">r</tspan><tspan x="27.03" y="0" xml:space="preserve">a, Medium,  </tspan><tspan class="cls-27" x="66.82" y="0">1</tspan><tspan x="70.45" y="0">0 </tspan><tspan class="cls-25" x="76.66" y="0">p</tspan><tspan x="80.62" y="0">t</tspan></text>
+  <rect class="cls-28" x="19" y="242" width="49" height="49"/>
+  <rect class="cls-29" x="123" y="242" width="49" height="49"/>
+  <rect class="cls-30" x="176" y="242" width="49" height="49"/>
+  <rect class="cls-31" x="228" y="242" width="49" height="49"/>
+  <rect class="cls-32" x="280" y="242" width="49" height="49"/>
+  <g>
+    <path class="cls-28" d="M458.85,85.76h-129c-6.68,0-12.15-4.18-12.15-9.28V34.67c0-5.11,5.47-9.28,12.15-9.28h129c6.68,0,12.15,4.18,12.15,9.28V76.48C471,81.58,465.53,85.76,458.85,85.76Z"/>
+    <polygon class="cls-28" points="335.88 95.95 353.85 85.76 340.81 85.76 335.88 95.95"/>
+    <g class="cls-33">
+      <text class="cls-34" transform="translate(326.83 66.75) scale(1.11 1)">PRI</text>
+      <text class="cls-35" transform="translate(389.11 66.75) scale(1.11 1)">V</text>
+      <text class="cls-36" transform="translate(415.26 66.75) scale(1.11 1)">A</text>
+      <text class="cls-34" transform="translate(442.77 66.75) scale(1.11 1)">T</text>
+    </g>
+  </g>
+  <g>
+    <path class="cls-29" d="M457.4,127.28h-98c-5.08,0-9.24-3.16-9.24-7V88.69c0-3.86,4.16-7,9.24-7h98c5.08,0,9.24,3.16,9.24,7v31.57C466.63,124.12,462.48,127.28,457.4,127.28Z"/>
+    <polygon class="cls-29" points="361.63 136 377.02 127.28 365.86 127.28 361.63 136"/>
+    <g class="cls-33">
+      <text class="cls-37" transform="translate(360.08 115.65) scale(1.11 1)">S</text>
+      <text class="cls-37" transform="translate(379.87 115.65) scale(1.11 1)">N</text>
+      <text class="cls-37" transform="translate(407.84 115.65) scale(1.11 1)">AK</text>
+    </g>
+  </g>
+  <use width="300" height="500" transform="matrix(0.39, 0, 0, -0.39, 346.68, 315.25)" xlink:href="#Tænker01"/>
+  <rect class="cls-18" x="70" y="242" width="49" height="49"/>
+  <rect class="cls-18" x="21" y="269" width="2" height="2"/>
+  <text></text>
+  <text></text>
+  <text class="cls-22" transform="translate(63.92 230.7)">Si<tspan class="cls-38" x="11.44" y="0">m</tspan><tspan x="23.61" y="0">pel animation med gennemslagsk</tspan><tspan class="cls-24" x="237.46" y="0">r</tspan><tspan x="242.92" y="0">a</tspan><tspan class="cls-39" x="250.81" y="0">f</tspan><tspan x="256.19" y="0">t</tspan></text>
+  <ellipse cx="113.5" cy="159.5" rx="43.5" ry="41.5"/>
+  <path class="cls-40" d="M115.17,162.25,131,180.54Z"/>
+  <text class="cls-19" transform="translate(161.97 175.93)"><tspan class="cls-41">K</tspan><tspan x="18.8" y="0">o</tspan><tspan class="cls-42" x="36.3" y="0">r</tspan><tspan x="48.42" y="0">t </tspan><tspan class="cls-43" x="66.25" y="0">v</tspan><tspan x="81.92" y="0">a</tspan><tspan class="cls-44" x="99.45" y="0">r</tspan><tspan x="111.1" y="0">ighed</tspan></text>
+  <text class="cls-26" transform="translate(131.52 286.89)">FF92<tspan class="cls-45" x="15.27" y="0">0</tspan><tspan x="19.2" y="0">7</tspan></text>
+  <text class="cls-26" transform="translate(187.91 286.94)">7F7F7F</text>
+  <text class="cls-26" transform="translate(79.56 282.94)"><tspan class="cls-46">7</tspan><tspan x="3.52" y="0">4C0DB</tspan></text>
+  <text class="cls-47" transform="translate(27.04 283.5)">1F2532</text>
+  <text class="cls-48" transform="translate(238.99 285.81)"><tspan class="cls-46">1</tspan><tspan class="cls-49" x="3.52" y="0">6</tspan><tspan x="7.65" y="0">456A</tspan></text>
+  <text class="cls-26" transform="translate(285.12 285.81)">99B88E</text>
+  <path class="cls-40" d="M114.8,128l-1.6,33Z"/>
+</svg>
